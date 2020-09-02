@@ -1,0 +1,6 @@
+combined_temp_grid_withdepth_stdev.npy filter=lfs diff=lfs merge=lfs -text
+seal_temp_grid_withdepth.npy filter=lfs diff=lfs merge=lfs -text
+seal_temp_grid_withdepth_stdev.npy filter=lfs diff=lfs merge=lfs -text
+argo_temp_grid_withdepth.npy filter=lfs diff=lfs merge=lfs -text
+argo_temp_grid_withdepth_stdev.npy filter=lfs diff=lfs merge=lfs -text
+combined_temp_grid_withdepth.npy filter=lfs diff=lfs merge=lfs -text
